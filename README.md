@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2050866709631100234/8C2CBD20914C286F73ABCA80E15D7533765C19FF/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhikakumar17&label=Profile%20views&color=0e75b6&style=flat" alt="radhikakumar17" /> </p>
 
-- 🔭 I’m currently building **Video Calling Interview Platform**
+- 🔭 I’m currently building **Saas Code Editor with Next.js**
 
 - 🌱 I’m currently learning **MACHINE LEARNING**
 
 - 👯 I’m looking to collaborate on **Python, AI & ML**
 
-- 💬 Ask me about **Frontend & Backend Frameworkds**
+- 💬 Ask me about **Frontend & Backend Frameworks**
 
 - 📫 How to reach me **radh7042@gmail.com**
 
